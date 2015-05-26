@@ -7,7 +7,10 @@ public class Main {
 	public static void main(String args[]){
 		
 		Serveur.create();
-		System.out.println("bien");
+		System.out.println("bien1");
+		System.out.println("bien2");
+		System.out.println("bien3");
+		System.out.println("bien4");
 	}
 
 }
