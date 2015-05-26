@@ -11,6 +11,10 @@ public class Main {
 		System.out.println("bien2");
 		System.out.println("bien3");
 		System.out.println("bien4");
+		System.out.println("bien5");
+		System.out.println("bien6");
+		System.out.println("bien7");
+
 	}
 
 }
